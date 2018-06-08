@@ -1,0 +1,11 @@
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\bin\Debug\Task_Restoran.exe.config
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\bin\Debug\Task_Restoran.exe
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\bin\Debug\Task_Restoran.pdb
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.csprojAssemblyReference.cache
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.Properties.Resources.resources
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.csproj.GenerateResource.cache
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.csproj.CoreCompileInputs.cache
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.exe
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.pdb
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.MainForm.resources
+C:\Users\media\source\repos\Task_Restoran\Task_Restoran\obj\Debug\Task_Restoran.Registiration.resources
